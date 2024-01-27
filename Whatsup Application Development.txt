@@ -1,2 +1,4 @@
 Whatsup Application Development
-Java language was used.
+
+1.  Profile page code
+2.  Last Seen Code
